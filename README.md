@@ -1,4 +1,4 @@
-# Sudoku-AI
+# Assignment1
 Sudoku Solver Using Constraint Satisfaction Problem **(CSP)** solutions and backtracking
 ---
 ## Python
