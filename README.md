@@ -12,9 +12,9 @@ Average
 ## Python
 The python version of this program uses the [pyside6](https://doc.qt.io/qtforpython-6/) library to design the user interface.
 
-![Screen Shot](Screenshot 2024-06-14 160718.png)
+If You Speak in Persian Follow These Translations:
 
-|   | Process Time |
+| Calculator  | ماشین حساب |
 |---|--------------|
 |Normal Sudoku |0.002s |
 |Hardest Sudoku | 19.7s |
