@@ -16,7 +16,7 @@ If You Speak in Persian Follow These Translations:
 
 | Calculator  | ماشین حساب |
 |---|--------------|
-|Normal Sudoku |0.002s |
+|Draw Triangle |طراحی مثلث |
 |Hardest Sudoku | 19.7s |
 
 ### Usage 
