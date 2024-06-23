@@ -1,5 +1,9 @@
 # Assignment1
-Sudoku Solver Using Constraint Satisfaction Problem **(CSP)** solutions and backtracking
+This part includes four subbranches:
+Calculator
+Triangle
+BMI
+Average
 ---
 ## Python
 The python version of this program uses the [pyside6](https://doc.qt.io/qtforpython-6/) library to design the user interface.
