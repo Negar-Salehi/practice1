@@ -17,7 +17,7 @@ If You Speak in Persian Follow These Translations:
 | Calculator  | ماشین حساب |
 |---|--------------|
 |Draw Triangle |طراحی مثلث |
-|Hardest Sudoku | 19.7s |
+|BMI | محاسبه توده بدنی |
 
 ### Usage 
 First Install Requirements packages:
