@@ -2,8 +2,11 @@
 This part includes four subbranches:
 ---
 Calculator
+---
 Triangle
+---
 BMI
+---
 Average
 ---
 ## Python
